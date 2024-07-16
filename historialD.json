@@ -1,0 +1,50 @@
+[
+  {
+    "conversion_result": 5.659,
+    "base_code": "MXN",
+    "target_code": "USD",
+    "conversion_rate": 0.05659,
+    "valor": 100,
+    "fecha": "2024/07/13 19:56:31"
+  },
+  {
+    "conversion_result": 88353.5,
+    "base_code": "USD",
+    "target_code": "MXN",
+    "conversion_rate": 17.6707,
+    "valor": 5000,
+    "fecha": "2024/07/13 19:56:40"
+  },
+  {
+    "conversion_result": 626.836,
+    "base_code": "CAD",
+    "target_code": "USD",
+    "conversion_rate": 0.734,
+    "valor": 854,
+    "fecha": "2024/07/13 19:56:47"
+  },
+  {
+    "conversion_result": 28.295,
+    "base_code": "MXN",
+    "target_code": "USD",
+    "conversion_rate": 0.05659,
+    "valor": 500,
+    "fecha": "2024/07/13 20:03:57"
+  },
+  {
+    "conversion_result": 458.9,
+    "base_code": "USD",
+    "target_code": "EUR",
+    "conversion_rate": 0.9178,
+    "valor": 500,
+    "fecha": "2024/07/13 20:21:10"
+  },
+  {
+    "conversion_result": 28.40818,
+    "base_code": "MXN",
+    "target_code": "USD",
+    "conversion_rate": 0.05659,
+    "valor": 502,
+    "fecha": "2024/07/13 21:32:06"
+  }
+]
